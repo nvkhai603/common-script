@@ -2,10 +2,8 @@
 # Đây là file chứa các script chung cho tất cả các máy chủ
 
 # Cài đặt các gói cần thiết
-# htop
+sudo apt-get update
 sudo apt-get install htop
-# xclip
-sudo apt-get update && sudo apt-get install -y xclip
 
 # Cài đặt clouldflare
 sudo mkdir -p --mode=0755 /usr/share/keyrings
