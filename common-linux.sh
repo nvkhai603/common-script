@@ -4,6 +4,7 @@
 # Cài đặt các gói cần thiết
 sudo apt-get update
 sudo apt-get install htop
+sudo apt-get install -y xclip
 
 # Cài đặt clouldflare
 sudo mkdir -p --mode=0755 /usr/share/keyrings
